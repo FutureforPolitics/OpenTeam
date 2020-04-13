@@ -9,7 +9,9 @@
   "author": "Fr13dr1ch",
   "license": "ISC",
   "dependencies": {
+    "async-json2csv": "^1.0.4",
     "express": "^4.17.1",
+    "jsontoxml": "^1.0.1",
     "ldapjs": "^1.0.2"
   }
 }
